@@ -1,10 +1,10 @@
 <?php
 
-$aa = 10;
+$a = 10;
 $b = 20;
-$sum = $aa + $b;
+$sum = $a + $b;
 
-
-echo $sum;
+$sentence = 'Sum = ';
+echo $sentence.$sum;
 
 ?>
