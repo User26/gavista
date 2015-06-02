@@ -10,4 +10,9 @@ echo"program to find sum";
 echo"program to add numbers";
 $c = 200;
 $d = 700;
+$diff = $c - $d;
+
+$sentence = 'diff = ';
+echo $sentence.$diff;
+echo "hi";
 ?>
